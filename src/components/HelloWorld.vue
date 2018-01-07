@@ -22,13 +22,13 @@
           width: '320px'
         },
         coins: [
-          {'name': 'EOS', 'num': 6000, 'price': 70, 'total': 0},
-          {'name': 'QTUM', 'num': 700, 'price': 350, 'total': 0},
-          {'name': 'BTS', 'num': 50000, 'price': 5.9, 'total': 0},
-          {'name': 'GXS', 'num': 3100, 'price': 50, 'total': 0},
-          {'name': 'SC', 'num': 140987, 'price': 0.44, 'total': 0},
+          {'name': 'EOS', 'num': 6000, 'price': 73, 'total': 0},
+          {'name': 'QTUM', 'num': 700, 'price': 487, 'total': 0},
+          {'name': 'BTS', 'num': 50000, 'price': 5.8, 'total': 0},
+          {'name': 'GXS', 'num': 3142, 'price': 70, 'total': 0},
+          {'name': 'SC', 'num': 140987, 'price': 0.6, 'total': 0},
           {'name': 'SNT', 'num': 2000, 'price': 3.2, 'total': 0},
-          {'name': 'ETH', 'num': 4, 'price': 7300, 'total': 0}
+          {'name': 'WICC', 'num': 4450, 'price': 5.8, 'total': 0}
         ]
       }
     },
